@@ -143,8 +143,8 @@ A recorded walkthrough (4–5 minutes) of the apps is available in the `flutter 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/flutter-learning-assignments.git
-   cd flutter-learning-assignments
+   git clone https://github.com/kazibwefrancis/DevelopersHub-week-456.git
+   cd DevelopersHub-week-456
    ```
 2. Navigate to the desired week folder and install dependencies:
    ```bash
@@ -161,15 +161,12 @@ A recorded walkthrough (4–5 minutes) of the apps is available in the `flutter 
 ## Project Structure
 
 ```
-flutter-learning-assignments/
+DevelopersHub-week-456/
 ├── week4/           # API Integration and Networking
 ├── week5/           # Firebase Auth & Firestore
 ├── week6/           # Provider State Management
-├── bonus/           # Bonus challenge code
-├── video/           # Demo video
 ├── README.md        # This file
-└── LICENSE          # License information
-```
+
 
 ---
 
